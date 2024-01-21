@@ -4,8 +4,7 @@ A passionate software developer
 
 - 🔭 I’m currently working on frontend development
 - 🌱 I’m currently learning javascript
-
-- <br />
+<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
