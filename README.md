@@ -1,7 +1,6 @@
 ### Hi👋 I'm Ruzaina 
 
-A passionate software developer
-
+A passionate software developer from India
 
 About me:
 - 🔭 I’m currently working on frontend development
