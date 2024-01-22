@@ -4,7 +4,7 @@
 
 A passionate software developer from India📍
 
-**About me:**
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on **front-end development**
   
