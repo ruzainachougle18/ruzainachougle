@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **Javascript**
   
-
+<br>
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"alt="html logo" height="50" style="vertical-align:top; margin:4px">
@@ -24,3 +24,4 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git logo" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github logo" height="40" style="vertical-align:top; margin:4px">
 </p>
+</br>
