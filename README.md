@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on **front-end development**
   
 - 🌱 I’m currently learning **Javascript**
+  
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
