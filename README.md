@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **Front-end development**
+- 🔭 I’m currently working on **Front-end Development**
   
 - 🌱 I’m currently learning **React**
 
