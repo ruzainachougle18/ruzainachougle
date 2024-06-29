@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ruzaina Chougle</h1>
 
-<h3 align="left">A passionate software developer from India.</h3>
+<h3 align="left">A Passionate Software Developer from India.</h3>
 
 <h3 align="left">About me:</h3>
-- 🔭 I’m currently working on **front-end development**
+- 🔭 I’m currently working on **Front-end development**
   
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 -📫 How to reach me **ruzainachougle2001@gmail.com**
   
