@@ -2,8 +2,6 @@
 
 <h3 align="left">A Passionate Software Developer from India.</h3>
 
-<h3 align="left">About me:</h3>
-
 - 🔭 I’m currently working on **Front-end Development**
   
 - 🌱 I’m currently learning **React**
