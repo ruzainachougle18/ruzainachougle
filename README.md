@@ -3,13 +3,14 @@
 <h3 align="left">A Passionate Software Developer from India.</h3>
 
 <h3 align="left">About me:</h3>
-- 🔭 I’m currently working on **Front-end development**
 
+- 🔭 I’m currently working on **Front-end development**
+  
 - 🌱 I’m currently learning **React**
 
 - 🌐Passionate about coding and learning.
 
--📫 How to reach me **ruzainachougle2001@gmail.com**
+- 📫 How to reach me **ruzainachougle2001@gmail.com**
   
 <br>
 <h3 align="left">Languages and Tools:</h3>
