@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ruzaina Chougle</h1>
 
-<h3 align="left">A Passionate Software Developer from India.</h3>
+<h3 align="center">A Passionate Software Developer from India.</h3>
 
 - 🔭 I’m currently working on **Front-end Development**
   
