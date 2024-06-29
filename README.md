@@ -1,17 +1,16 @@
-<h1 align="center">Hi, I'm Ruzaina Chougle👋</h1>
+<h1 align="center">Hi, I'm Ruzaina Chougle</h1>
 
-<img align="right" alt="coding" width="400" src="/classic-style-work.gif">
-
-<h3 align="left">A passionate software developer from India📍</h3>
+<h3 align="left">A passionate software developer from India.</h3>
 
 <h3 align="left">About me:</h3>
-
 - 🔭 I’m currently working on **front-end development**
   
 - 🌱 I’m currently learning **Javascript**
+
+-📫 How to reach me **ruzainachougle2001@gmail.com**
   
 <br>
-<h3 align="left">🧰 Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"alt="html logo" height="50" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css logo" height="50" style="vertical-align:top; margin:4px">
