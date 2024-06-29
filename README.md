@@ -5,7 +5,7 @@
 <h3 align="left">About me:</h3>
 - 🔭 I’m currently working on **Front-end development**
 - 🌱 I’m currently learning **React**
-🌐Passionate about coding and learning.
+- 🌐Passionate about coding and learning.
 
 -📫 How to reach me **ruzainachougle2001@gmail.com**
   
