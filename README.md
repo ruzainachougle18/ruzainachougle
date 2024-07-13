@@ -6,7 +6,7 @@
 
 - 🌐Passionate about coding and learning.
 
-- 📫 How to reach me: **ruzainachougle2001@gmail.com**
+- 📫 How to reach me: **ruzainachougle@gmail.com**
   
 <br>
 <h3 align="left">Languages and Tools:</h3>
